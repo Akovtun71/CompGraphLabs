@@ -1,1 +1,1 @@
-![picture](https://i.ibb.co/StQFrjf/lab2.gif)
+![](https://i.ibb.co/StQFrjf/lab2.gif)
